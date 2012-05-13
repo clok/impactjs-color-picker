@@ -6,6 +6,7 @@ Using this plugin (especially the genMultiHexarray) has greatly improved my cont
 
 ## DEMOS
 [Simple canvas demo](http://www.clokwork.net/demos/color-picker/)
+
 [PiSpace](http://www.clokwork.net/pispace/)
 
 ## How to Use
